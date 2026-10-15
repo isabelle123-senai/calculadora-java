@@ -27,7 +27,7 @@ public class Calcular {
         int opcao = scanner.nextInt();
 
         switch (opcao) {
-            case 1:
+            case 1;
                 System.out.println("Resultado: " + (numero1 + numero2));
                 break;
 
